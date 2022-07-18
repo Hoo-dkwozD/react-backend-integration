@@ -1,0 +1,6 @@
+#error-message-card {
+    display: flex;
+    margin-top: 1em;
+    flex-direction: column;
+    align-items: center;
+}
